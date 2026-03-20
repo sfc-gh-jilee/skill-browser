@@ -269,6 +269,7 @@
 .transition-xkyp0o9:not(#\#):not(#\#){transition:background-color .15s ease-in-out}
 .transition-x80jzl9:not(#\#):not(#\#){transition:box-shadow .1s ease-in-out}
 .transition-x1l3kolr:not(#\#):not(#\#){transition:box-shadow .2s linear,background-color .2s linear,border-color .2s linear}
+.transition-xloy9ls:not(#\#):not(#\#){transition:color .15s}
 .transition-x1g5935b:not(#\#):not(#\#){transition:left .1s ease-in-out}
 .transition-x12xwlg2:not(#\#):not(#\#){transition:opacity .15s}
 .transition-xqz5vs7:not(#\#):not(#\#){transition:opacity .3s ease}
@@ -475,7 +476,6 @@
 .clip-xeh89do:not(#\#):not(#\#):not(#\#){clip:rect(0 0 0 0)}
 .colorScheme-xntwwlm:not(#\#):not(#\#):not(#\#){color-scheme:dark}
 .colorScheme-x19aimcq:not(#\#):not(#\#):not(#\#){color-scheme:light}
-.color-x1votaj3:not(#\#):not(#\#):not(#\#){color:#111}
 .color-xd0y9lv:not(#\#):not(#\#):not(#\#){color:#777777}
 .color-x1vg22bb:not(#\#):not(#\#):not(#\#){color:#DDDDDD}
 .color-x12tjpxq:not(#\#):not(#\#):not(#\#){color:#EEEEEE}
@@ -869,6 +869,7 @@
 .backgroundColor-x65m7o6:hover:not(#\#):not(#\#):not(#\#){background-color:var(--tertiaryBackgroundHover-x1psymnc)}
 .boxShadow-xbgr54:hover:not(#\#):not(#\#):not(#\#){box-shadow:var(--elevation_2BoxShadow-x14fxajb)}
 .color-x2qf380:hover:not(#\#):not(#\#):not(#\#){color:#666666}
+.color-xzo20it:hover:not(#\#):not(#\#):not(#\#){color:#CCCCCC}
 .color-x1ud0hlx:hover:not(#\#):not(#\#):not(#\#){color:var(--primaryTextHover-xhhcadt)}
 .color-xlfh3xd:hover:not(#\#):not(#\#):not(#\#){color:var(--primaryTextPress-x1uye6ye)}
 .color-x1ltn0kg:hover:not(#\#):not(#\#):not(#\#){color:var(--reusableLinkCautionHover-xtb0wcg)}
@@ -1040,6 +1041,7 @@
 .paddingLeft-xc4f11z:not(#\#):not(#\#):not(#\#):not(#\#){padding-left:var(--space_horizontal_3xs-x10u2si7)}
 .paddingLeft-x196w91y:not(#\#):not(#\#):not(#\#):not(#\#){padding-left:var(--space_horizontal_md-xg54gut)}
 .paddingLeft-xgbfrxt:not(#\#):not(#\#):not(#\#):not(#\#){padding-left:var(--space_horizontal_sm-x16gqknp)}
+.paddingRight-xnuq7ks:not(#\#):not(#\#):not(#\#):not(#\#){padding-right:12px}
 .paddingRight-x17tnbgv:not(#\#):not(#\#):not(#\#):not(#\#){padding-right:36px}
 .paddingRight-xcg9d3i:not(#\#):not(#\#):not(#\#):not(#\#){padding-right:var(--space_horizontal_2xl-x1bwfpii)}
 .paddingRight-x135q7hb:not(#\#):not(#\#):not(#\#):not(#\#){padding-right:var(--space_horizontal_2xs-xrrn4r2)}
